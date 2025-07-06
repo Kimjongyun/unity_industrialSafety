@@ -137,7 +137,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   shakeDuration: 10
-  shakeMagnitue: 0.3
+  shakeAngle: 10
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
@@ -397,7 +397,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1495176546}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: 7183da98907a54e08b1f879f3e37ab4f, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: 7a10c5d726e4f9343b893c633bc9333c, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
